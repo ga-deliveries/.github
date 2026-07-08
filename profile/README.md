@@ -1,4 +1,4 @@
-<img width="100%" src="../assets/ga-logo.png" />
+<img width="100%" src="../assets/ga-logo-white-background.png" />
 
 Public landing page placeholder. 
 
