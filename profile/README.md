@@ -11,6 +11,8 @@ This organization hosts General Assembly's **per-cohort delivery repositories** 
 <details>
 <summary><strong>GA team members — how to request access</strong></summary>
 
+</br>
+
 1. Make sure you have a **personal GitHub account** with **two-factor authentication (2FA) enabled** — https://github.com/settings/security
 2. Request access through **[GA's GitHub access request channel](#)** _(Slack channel — TBD)_ <!-- TODO: replace (#) with the Slack channel link once it is created --> with your **role** and the **team or program** you're joining.
 
