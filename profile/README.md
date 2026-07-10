@@ -2,22 +2,23 @@
 
 # General Assembly | Program Delivery
 
-This organization hosts **per-cohort delivery repositories** for General Assembly's enterprise programs. The repositories are **private**.
+This organization hosts General Assembly's **per-cohort delivery repositories** — one private repository per enterprise program cohort.
 
-> **Students:** you do not need to join this organization. Your instructor adds you as an **outside collaborator** on your own cohort's repository, giving you access to just that repository. Have a **personal GitHub account with 2FA enabled** so you can accept the invitation, watch for a GitHub email invite (or ask your instructor for the link), and feel free to **fork** your repo to keep your work after the cohort ends.
+> **Are you a student?** This is where your cohort's materials live, but you won't join this organization. Your instructor adds you as an **outside collaborator** on your own cohort's repository, which gives you access to just that repo. Make sure your **personal GitHub account has 2FA enabled** so you can accept the invitation, watch for a GitHub email invite (or ask your instructor for the link), and feel free to **fork** the repository to keep your work after the cohort ends.
 
 ---
 
 <details>
-<summary><strong>Instructors and GA staff — request access</strong></summary>
+<summary><strong>GA team members — how to request access</strong></summary>
 
-1. Have a **personal GitHub account** with **two-factor authentication (2FA) enabled** — https://github.com/settings/security
-2. [Email/Slack (TBD)](#) with your **role** and the **program** you are working on.
+1. Make sure you have a **personal GitHub account** with **two-factor authentication (2FA) enabled** — https://github.com/settings/security
+2. Request access through **[GA's GitHub access request channel](#)** _(Slack channel — TBD)_ <!-- TODO: replace (#) with the Slack channel link once it is created --> with your **role** and the **team or program** you're joining.
 
-Once approved, you will receive a GitHub invitation to the Org.
+Access is granted at the **organization level**, not per repository. Once you're approved and added as an org member, you'll have access across this organization — there's no need to request individual repos.
 
 </details>
 
 ---
 
-These repositories contain client-specific and licensed curriculum delivered to enrolled cohorts. Access is managed deliberately to protect General Assembly and client intellectual property. For anything not covered here, contact General Assembly through your existing point of contact.
+**Questions, or not sure why you're here?**
+If you're not a GA student or team member, head to **[generalassemb.ly](https://generalassemb.ly)** to explore our courses and get in touch.
